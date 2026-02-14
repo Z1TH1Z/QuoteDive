@@ -1,0 +1,89 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_background_translucent"
+    android:padding="12dp">
+
+    <!-- Branch Image (Left Side) -->
+    <ImageView
+        android:id="@+id/widget_branch"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/widget_zen_branch"
+        android:contentDescription="Zen Branch"
+        android:scaleType="fitCenter"
+        android:alpha="0.8" />
+
+    <!-- Streak Counter (Top Right) -->
+    <LinearLayout
+        android:id="@+id/widget_streak_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:src="@drawable/ic_launcher_foreground"
+            android:layout_marginEnd="4dp"
+            android:contentDescription="Streak Leaf" />
+
+        <TextView
+            android:id="@+id/widget_streak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#2F3E46" />
+    </LinearLayout>
+
+    <!-- Quote & Author Container -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@id/widget_branch"
+        android:layout_toStartOf="@id/widget_streak_container"
+        android:layout_marginStart="8dp"
+        android:orientation="vertical"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp">
+
+        <!-- Quote Text -->
+        <TextView
+            android:id="@+id/widget_quote_text"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="Tap to see today's quote"
+            android:textSize="14sp"
+            android:textColor="#2F3E46"
+            android:textStyle="italic"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:lineSpacingMultiplier="1.2"
+            android:paddingStart="4dp"
+            android:paddingEnd="4dp" />
+
+        <!-- Author -->
+        <TextView
+            android:id="@+id/widget_quote_author"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="— Philosopher"
+            android:textSize="11sp"
+            android:textColor="#52796F"
+            android:gravity="end"
+            android:paddingTop="4dp"
+            android:paddingEnd="4dp" />
+    </LinearLayout>
+
+</RelativeLayout>

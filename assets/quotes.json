@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "text": "Know thyself",
+    "author": "Socrates",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Inscribed at the Temple of Apollo at Delphi, this maxim became central to Socratic philosophy. Socrates believed that self-knowledge was the foundation of wisdom and virtue. In ancient Athens, he would question citizens in the marketplace, helping them realize how little they truly knew about themselves and their beliefs.",
+      "modern_meaning": "Today, this means understanding your strengths, weaknesses, values, and motivations. It's about honest self-reflection before judging others. In our age of constant distraction, taking time to understand who you really are—not who social media says you should be—is revolutionary.",
+      "audio_url": ""
+    },
+    "philosopher_id": 1
+  },
+  {
+    "id": 2,
+    "text": "The unexamined life is not worth living",
+    "author": "Socrates",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Spoken at Socrates' trial in 399 BC, where he was accused of corrupting the youth of Athens. Rather than beg for mercy, he defended his life of questioning and philosophical inquiry. He argued that a life without critical thinking and self-examination has no real value.",
+      "modern_meaning": "Don't just go through the motions. Question your assumptions, examine your beliefs, and think critically about your choices. Whether it's your career, relationships, or daily habits—regular reflection makes life meaningful. It's the difference between living intentionally and just existing.",
+      "audio_url": ""
+    },
+    "philosopher_id": 1
+  },
+  {
+    "id": 3,
+    "text": "You have power over your mind - not outside events. Realize this, and you will find strength",
+    "author": "Marcus Aurelius",
+    "category": "Stoicism",
+    "deep_dive": {
+      "context": "Written in Marcus Aurelius' personal journal 'Meditations' around 170-180 AD while he was Roman Emperor. He faced wars, plagues, and betrayals, yet found peace by focusing on what he could control—his thoughts and reactions—rather than external circumstances.",
+      "modern_meaning": "You can't control traffic, other people's opinions, or unexpected setbacks. But you can control how you respond. This is the core of emotional resilience. When you stop trying to control everything and focus on your mindset, stress decreases and inner strength grows.",
+      "audio_url": ""
+    },
+    "philosopher_id": 2
+  },
+  {
+    "id": 4,
+    "text": "Waste no more time arguing about what a good man should be. Be one",
+    "author": "Marcus Aurelius",
+    "category": "Stoicism",
+    "deep_dive": {
+      "context": "Marcus Aurelius wrote this reminder to himself as emperor, surrounded by political debates and philosophical discussions. He recognized that endless theorizing without action is meaningless. As a Stoic, he believed virtue must be practiced, not just discussed.",
+      "modern_meaning": "Stop overthinking and start doing. We spend too much time planning, researching, and debating the 'right' way to live. Instead, take action aligned with your values today. Want to be kind? Be kind now. Want to be disciplined? Start now. Action beats philosophy.",
+      "audio_url": ""
+    },
+    "philosopher_id": 2
+  },
+  {
+    "id": 5,
+    "text": "He who has a why to live can bear almost any how",
+    "author": "Friedrich Nietzsche",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "Nietzsche wrote this in 'Twilight of the Idols' (1888), reflecting on human resilience and meaning. He observed that people can endure tremendous suffering if they have a compelling reason—a purpose that makes the struggle worthwhile. This idea later influenced Viktor Frankl's work in concentration camps.",
+      "modern_meaning": "Purpose is your superpower. When you know your 'why'—whether it's family, a mission, or personal growth—you can handle almost any challenge. This is why people with clear goals push through obstacles that stop others. Find your why, and the how becomes manageable.",
+      "audio_url": ""
+    },
+    "philosopher_id": 3
+  },
+  {
+    "id": 6,
+    "text": "That which does not kill us makes us stronger",
+    "author": "Friedrich Nietzsche",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "From 'Twilight of the Idols' (1888), Nietzsche argued that adversity and struggle are essential for growth. He rejected the idea that comfort leads to strength, instead believing that overcoming challenges builds character and resilience. This was personal—Nietzsche suffered from chronic illness his entire life.",
+      "modern_meaning": "Challenges aren't setbacks—they're training. Every difficulty you overcome builds mental and emotional muscle. Failed project? You learned. Heartbreak? You grew. The key is to extract the lesson and move forward stronger. Avoiding all discomfort keeps you weak.",
+      "audio_url": ""
+    },
+    "philosopher_id": 3
+  },
+  {
+    "id": 7,
+    "text": "The journey of a thousand miles begins with a single step",
+    "author": "Lao Tzu",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "From the 'Tao Te Ching,' written around 400 BC in ancient China. Lao Tzu, founder of Taoism, emphasized simplicity and natural action. This quote reflects the Taoist principle that great achievements start with small, humble beginnings. Don't be overwhelmed by the destination—focus on the first step.",
+      "modern_meaning": "Big goals feel overwhelming. Want to write a book? Start with one page. Want to get fit? Start with one workout. The secret isn't having it all figured out—it's starting despite uncertainty. Progress compounds. That first step is often the hardest and most important.",
+      "audio_url": ""
+    },
+    "philosopher_id": 4
+  },
+  {
+    "id": 8,
+    "text": "Nature does not hurry, yet everything is accomplished",
+    "author": "Lao Tzu",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "Another gem from the 'Tao Te Ching,' reflecting Taoist philosophy of wu wei (effortless action). Lao Tzu observed that nature operates without force or rush—seasons change, trees grow, rivers flow—all in perfect timing. Forcing things creates resistance; flowing with natural rhythms creates harmony.",
+      "modern_meaning": "Stop rushing. Our hustle culture glorifies speed, but sustainable success takes time. Trust the process. Whether it's learning a skill, building a business, or healing from trauma—there's a natural pace. Patience isn't passive; it's strategic. Work consistently, but don't force what needs time.",
+      "audio_url": ""
+    },
+    "philosopher_id": 4
+  },
+  {
+    "id": 9,
+    "text": "I think, therefore I am",
+    "author": "René Descartes",
+    "category": "Modern Philosophy",
+    "deep_dive": {
+      "context": "From 'Discourse on the Method' (1637), Descartes sought absolute certainty in an age of skepticism. He doubted everything—his senses, his body, even reality itself. But he couldn't doubt that he was doubting. The act of thinking proved his existence. This became the foundation of modern philosophy.",
+      "modern_meaning": "Your consciousness is the one undeniable truth. Everything else—opinions, status, possessions—can be questioned or lost. But your ability to think, reflect, and be aware is fundamental. In a world of fake news and illusions, your thinking mind is your anchor to reality.",
+      "audio_url": ""
+    },
+    "philosopher_id": 5
+  },
+  {
+    "id": 10,
+    "text": "Man is condemned to be free",
+    "author": "Jean-Paul Sartre",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "From Sartre's 1946 lecture 'Existentialism is a Humanism.' He argued that humans have no predetermined essence or purpose—we're thrown into existence and must create our own meaning. This freedom is both liberating and terrifying. We can't escape the responsibility of choosing who we become.",
+      "modern_meaning": "You're free to choose, but you can't escape choosing. Not deciding is still a decision. This is both empowering and heavy—you can't blame fate, genes, or circumstances for your life. You're the author. That's scary, but it also means you can rewrite your story starting now.",
+      "audio_url": ""
+    },
+    "philosopher_id": 6
+  },
+  {
+    "id": 11,
+    "text": "The only true wisdom is in knowing you know nothing",
+    "author": "Socrates",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "This paradoxical statement captures Socrates' approach to wisdom. Unlike the sophists who claimed to know everything, Socrates recognized the limits of human knowledge. This humility became the starting point for genuine inquiry and learning.",
+      "modern_meaning": "In today's information age, admitting what you don't know is powerful. It opens you to learning, prevents overconfidence, and makes you more credible. The smartest people are those who know the boundaries of their knowledge.",
+      "audio_url": ""
+    },
+    "philosopher_id": 1
+  },
+  {
+    "id": 12,
+    "text": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking",
+    "author": "Marcus Aurelius",
+    "category": "Stoicism",
+    "deep_dive": {
+      "context": "Marcus Aurelius wrote this while dealing with wars, plagues, and political turmoil. As emperor, he had access to every luxury, yet he found that happiness came from internal mindset, not external circumstances.",
+      "modern_meaning": "We chase money, status, and possessions thinking they'll make us happy. But research shows happiness is 90% mindset. Gratitude, perspective, and contentment matter more than circumstances. Change your thinking, change your life.",
+      "audio_url": ""
+    },
+    "philosopher_id": 2
+  },
+  {
+    "id": 13,
+    "text": "You could leave life right now. Let that determine what you do and say and think",
+    "author": "Marcus Aurelius",
+    "category": "Stoicism",
+    "deep_dive": {
+      "context": "This is Marcus Aurelius practicing 'memento mori'—remembering death. Stoics used death awareness not to be morbid, but to clarify priorities and live with urgency and purpose.",
+      "modern_meaning": "If today were your last day, would you waste it on petty arguments, scrolling social media, or worrying about others' opinions? Death awareness helps you focus on what truly matters—relationships, growth, contribution.",
+      "audio_url": ""
+    },
+    "philosopher_id": 2
+  },
+  {
+    "id": 14,
+    "text": "Without music, life would be a mistake",
+    "author": "Friedrich Nietzsche",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "Nietzsche saw art and music as essential to human flourishing. In a world without inherent meaning, creativity and beauty give life value. Music represented the Dionysian spirit—passion, emotion, and vitality.",
+      "modern_meaning": "Don't just optimize for productivity and efficiency. Beauty, art, and joy aren't luxuries—they're necessities. Whether it's music, nature, or creativity, make space for what makes you feel alive.",
+      "audio_url": ""
+    },
+    "philosopher_id": 3
+  },
+  {
+    "id": 15,
+    "text": "To live is to suffer, to survive is to find some meaning in the suffering",
+    "author": "Friedrich Nietzsche",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "Nietzsche rejected the idea that life should be pain-free. He argued that suffering is inevitable, but we can choose how we respond to it. Finding meaning in hardship transforms it from tragedy to growth.",
+      "modern_meaning": "Life will hurt—relationships end, careers fail, health declines. The question isn't 'how do I avoid pain?' but 'what can I learn from this?' Meaning-making turns victims into victors.",
+      "audio_url": ""
+    },
+    "philosopher_id": 3
+  },
+  {
+    "id": 16,
+    "text": "When I let go of what I am, I become what I might be",
+    "author": "Lao Tzu",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "Taoist philosophy emphasizes non-attachment to fixed identities. Lao Tzu taught that clinging to who we think we are limits our potential. True transformation requires releasing old self-concepts.",
+      "modern_meaning": "Your past doesn't define your future. That label you've carried—'I'm not creative,' 'I'm bad at math'—is just a story. Let go of limiting beliefs and you'll discover capabilities you never knew you had.",
+      "audio_url": ""
+    },
+    "philosopher_id": 4
+  },
+  {
+    "id": 17,
+    "text": "A good traveler has no fixed plans and is not intent on arriving",
+    "author": "Lao Tzu",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "This reflects the Taoist principle of wu wei—effortless action. Lao Tzu observed that rigid plans often fail, while flexibility and presence lead to better outcomes. The journey matters more than the destination.",
+      "modern_meaning": "We're obsessed with goals and outcomes, missing the present moment. Sometimes the best experiences come from being open to detours. Stay flexible, enjoy the process, and trust the path will unfold.",
+      "audio_url": ""
+    },
+    "philosopher_id": 4
+  },
+  {
+    "id": 18,
+    "text": "Doubt is an uncomfortable condition, but certainty is a ridiculous one",
+    "author": "Voltaire",
+    "category": "Enlightenment",
+    "deep_dive": {
+      "context": "Voltaire, a key Enlightenment thinker, championed reason and skepticism. He saw absolute certainty as dangerous—it led to dogmatism, intolerance, and violence. Healthy doubt keeps us humble and open-minded.",
+      "modern_meaning": "In polarized times, everyone claims absolute certainty. But the wisest people hold their beliefs lightly, willing to update with new evidence. Intellectual humility beats arrogant certainty every time.",
+      "audio_url": ""
+    },
+    "philosopher_id": 7
+  },
+  {
+    "id": 19,
+    "text": "It is not enough to have a good mind; the main thing is to use it well",
+    "author": "René Descartes",
+    "category": "Modern Philosophy",
+    "deep_dive": {
+      "context": "Descartes revolutionized philosophy by emphasizing method and systematic thinking. He argued that intelligence without proper reasoning leads nowhere. His 'Discourse on Method' laid out rules for clear thinking.",
+      "modern_meaning": "Raw intelligence isn't enough—you need good thinking habits. Critical thinking, logic, and systematic problem-solving beat natural talent without discipline. Learn how to think, not just what to think.",
+      "audio_url": ""
+    },
+    "philosopher_id": 5
+  },
+  {
+    "id": 20,
+    "text": "Hell is other people",
+    "author": "Jean-Paul Sartre",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "Often misunderstood, this line from Sartre's play 'No Exit' isn't about hating people. It's about how others' judgments can trap us. When we live for others' approval, we lose our authentic selves.",
+      "modern_meaning": "Social media amplifies this—we curate lives for others' validation, losing ourselves in the process. Freedom means living authentically, not performing for an audience. Define yourself, don't let others define you.",
+      "audio_url": ""
+    },
+    "philosopher_id": 6
+  },
+  {
+    "id": 21,
+    "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit",
+    "author": "Aristotle",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Aristotle emphasized that virtue is a matter of practice. You don't become brave by reading about bravery, but by doing brave things. Character is built through consistent action over time.",
+      "modern_meaning": "Success isn't about one big moment—it's about small, daily choices. Want to be fit? It's the daily workout. Want to be a writer? It's the daily page. Your habits are the compound interest of self-improvement.",
+      "audio_url": ""
+    },
+    "philosopher_id": 9
+  },
+  {
+    "id": 22,
+    "text": "It is the mark of an educated mind to be able to entertain a thought without accepting it",
+    "author": "Aristotle",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Aristotle valued intellectual flexibility. Engaging with opposing viewpoints helps refine your own arguments and understand the truth more deeply.",
+      "modern_meaning": "In our polarized world, we often shut down ideas we disagree with. True intelligence is listening to understand, not just to reply. You can understand a perspective without endorsing it—that's critical thinking.",
+      "audio_url": ""
+    },
+    "philosopher_id": 9
+  },
+  {
+    "id": 23,
+    "text": "Knowing yourself is the beginning of all wisdom",
+    "author": "Aristotle",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "While Socrates said 'Know thyself,' Aristotle expanded this to mean understanding your nature, habits, and potential. Self-awareness is the prerequisite for a virtuous and happy life (Eudaimonia).",
+      "modern_meaning": "Before you lead others, you must lead yourself. Understanding your emotional triggers, strengths, and blind spots is the most important skill for career and relationship success.",
+      "audio_url": ""
+    },
+    "philosopher_id": 9
+  },
+  {
+    "id": 24,
+    "text": "Wise men speak because they have something to say; fools because they have to say something",
+    "author": "Plato",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Plato contrasted the philosopher, who seeks truth, with the sophist, who uses rhetoric to win arguments or impress crowds. Silence and thoughtful speech were valued over noise.",
+      "modern_meaning": "Social media rewards constant posting and hot takes. But there's power in silence. Speak only when you can add value. Listening is often more powerful than talking.",
+      "audio_url": ""
+    },
+    "philosopher_id": 8
+  },
+  {
+    "id": 25,
+    "text": "We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light",
+    "author": "Plato",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Related to his Allegory of the Cave, Plato lamented how people cling to comfortable illusions (shadows) rather than facing the harsh but liberating truth (the sun/light).",
+      "modern_meaning": "Growth is uncomfortable. We often stay in 'dark' situations (bad jobs, toxic relationships) because they are familiar. Stepping into the 'light' of change is scary, but it's where real life begins.",
+      "audio_url": ""
+    },
+    "philosopher_id": 8
+  },
+  {
+    "id": 26,
+    "text": "Courage is knowing what not to fear",
+    "author": "Plato",
+    "category": "Ancient Philosophy",
+    "deep_dive": {
+      "context": "Plato defined courage not as recklessness, but as wisdom about danger. A courageous person fears disgrace and evil, but does not fear death or physical pain in pursuit of the good.",
+      "modern_meaning": "We fear failure, rejection, and embarrassment. But these things can't truly hurt us. Real courage is prioritizing your values over your comfort zone. Fear regret more than failure.",
+      "audio_url": ""
+    },
+    "philosopher_id": 8
+  },
+  {
+    "id": 27,
+    "text": "The man who moves a mountain begins by carrying away small stones",
+    "author": "Confucius",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "Confucius emphasized patience and persistence. Great achievements aren't instantaneous; they are the result of consistent, humble effort over a long time.",
+      "modern_meaning": "Don't let the size of your dream paralyze you. Break it down. Write one paragraph. Save one dollar. Do one pushup. Small, consistent actions compound into massive results over time.",
+      "audio_url": ""
+    },
+    "philosopher_id": 10
+  },
+  {
+    "id": 28,
+    "text": "It does not matter how slowly you go as long as you do not stop",
+    "author": "Confucius",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "Perseverance (Li) is a key Confucian virtue. The speed of progress is less important than the direction and the refusal to give up.",
+      "modern_meaning": "In a world of 'overnight success' stories, we feel behind. But life isn't a race; it's a marathon. Burnout comes from sprinting. Pace yourself, keep moving forward, and you will get there.",
+      "audio_url": ""
+    },
+    "philosopher_id": 10
+  },
+  {
+    "id": 29,
+    "text": "Wheresoever you go, go with all your heart",
+    "author": "Confucius",
+    "category": "Eastern Philosophy",
+    "deep_dive": {
+      "context": "Sincerity and wholeheartedness were central to Confucius. Half-hearted effort leads to mediocrity and regret. Whatever role you play, play it fully.",
+      "modern_meaning": "Multitasking and distraction dilute our lives. If you're with friends, be with them. If you're working, work. Be fully present in whatever you do. Presence is the greatest gift you can give.",
+      "audio_url": ""
+    },
+    "philosopher_id": 10
+  },
+  {
+    "id": 30,
+    "text": "In the depth of winter, I finally learned that within me there lay an invincible summer",
+    "author": "Albert Camus",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "From his essay 'Return to Tipasa' (1952). Camus found hope not in external circumstances, but in an inner resilience that could withstand any hardship. It's a testament to the human spirit's capacity to endure.",
+      "modern_meaning": "You are stronger than you think. When life hits its coldest, darkest moments, you discover a reservoir of strength you didn't know you had. Resilience isn't about avoiding winter; it's about carrying your own summer.",
+      "audio_url": ""
+    },
+    "philosopher_id": 11
+  },
+  {
+    "id": 31,
+    "text": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion",
+    "author": "Albert Camus",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "Camus saw rebellion not just as political, but as metaphysical. To live with joy and integrity in an absurd world is the ultimate defiance against meaninglessness.",
+      "modern_meaning": "When society demands conformity, being yourself is a revolutionary act. Choose kindness in a cruel world. Choose creativity in a destructive world. Your joy is your resistance.",
+      "audio_url": ""
+    },
+    "philosopher_id": 11
+  },
+  {
+    "id": 32,
+    "text": "Real generosity toward the future lies in giving all to the present",
+    "author": "Albert Camus",
+    "category": "Existentialism",
+    "deep_dive": {
+      "context": "Camus criticized ideologies that sacrificed people today for a utopian future. He believed the only life we have is here and now, and we must honor it.",
+      "modern_meaning": "Stop waiting for 'someday' to be happy. Don't sacrifice your health or relationships for a retirement you might not see. Live fully now. The best way to build a good future is to live a good today.",
+      "audio_url": ""
+    },
+    "philosopher_id": 11
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "id": 1,
+    "name": "Socrates",
+    "birth_year": -470,
+    "death_year": -399,
+    "era": "Ancient Greece",
+    "school": "Western Philosophy",
+    "bio": "Socrates is considered the father of Western philosophy. He never wrote anything down, but his student Plato documented his teachings. Famous for the Socratic Method—asking questions to expose contradictions and stimulate critical thinking. He was sentenced to death for 'corrupting the youth' and chose to drink hemlock rather than flee Athens.",
+    "key_ideas": [
+      "Socratic Method: Learning through questioning",
+      "Know Thyself: Self-knowledge is the foundation of wisdom",
+      "Virtue is Knowledge: Knowing what's right leads to doing what's right"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is the Socratic Method?",
+        "options": [
+          "Memorizing facts through repetition",
+          "Learning through asking questions",
+          "Reading ancient texts",
+          "Meditating in silence"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Socratic Method involves asking probing questions to expose contradictions and stimulate critical thinking, rather than simply providing answers."
+      },
+      {
+        "question": "How did Socrates die?",
+        "options": [
+          "Natural causes",
+          "In battle",
+          "Drinking hemlock (poison)",
+          "Exile"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Socrates was sentenced to death for 'corrupting the youth' and chose to drink hemlock rather than flee Athens."
+      },
+      {
+        "question": "What did Socrates believe about wisdom?",
+        "options": [
+          "Wisdom comes from reading books",
+          "True wisdom is knowing you know nothing",
+          "Wisdom is inherited",
+          "Only gods can be wise"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Socrates famously said 'The only true wisdom is in knowing you know nothing,' emphasizing intellectual humility."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Socrates",
+    "contemporaries": [
+      "Plato",
+      "Xenophon",
+      "Aristophanes"
+    ],
+    "opponents": [
+      "The Sophists",
+      "Meletus"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Marcus Aurelius",
+    "birth_year": 121,
+    "death_year": 180,
+    "era": "Roman Empire",
+    "school": "Stoicism",
+    "bio": "Roman Emperor from 161 to 180 AD and Stoic philosopher. Despite ruling the vast Roman Empire during wars and plagues, he maintained inner peace through Stoic principles. His personal journal 'Meditations' wasn't meant for publication—it was his private guide for living virtuously. Today it's one of the most influential philosophy books.",
+    "key_ideas": [
+      "Control what you can: Focus on your thoughts and actions, not external events",
+      "Memento Mori: Remember you will die—live accordingly",
+      "Amor Fati: Love your fate, embrace what happens"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What does 'Memento Mori' mean?",
+        "options": [
+          "Remember to live",
+          "Remember you will die",
+          "Remember the past",
+          "Remember your duties"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Memento Mori means 'remember you will die.' Stoics used death awareness to clarify priorities and live with purpose."
+      },
+      {
+        "question": "What was Marcus Aurelius' famous book?",
+        "options": [
+          "The Republic",
+          "Meditations",
+          "Ethics",
+          "Confessions"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Marcus Aurelius wrote 'Meditations,' a personal journal of Stoic philosophy that wasn't meant for publication."
+      },
+      {
+        "question": "What is the core Stoic principle?",
+        "options": [
+          "Seek pleasure and avoid pain",
+          "Control what you can, accept what you can't",
+          "Accumulate wealth and power",
+          "Follow religious doctrine"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Stoicism teaches focusing on what you can control (your thoughts and actions) and accepting what you cannot control (external events)."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "contemporaries": [
+      "Lucius Verus",
+      "Galen"
+    ],
+    "opponents": [
+      "Avidius Cassius",
+      "Marcomanni"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Friedrich Nietzsche",
+    "birth_year": 1844,
+    "death_year": 1900,
+    "era": "19th Century Germany",
+    "school": "Existentialism",
+    "bio": "German philosopher who challenged traditional morality and religion. Famous for declaring 'God is dead' and introducing concepts like the Übermensch (Superman) and eternal recurrence. He suffered from chronic illness and mental breakdown, yet produced profound works on human nature, power, and meaning. His ideas influenced existentialism and modern psychology.",
+    "key_ideas": [
+      "Will to Power: The fundamental drive to assert and enhance one's life",
+      "Übermensch: The ideal human who creates their own values",
+      "Eternal Recurrence: Live as if you'd repeat your life infinitely"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is the Übermensch?",
+        "options": [
+          "A superhero with powers",
+          "The ideal human who creates their own values",
+          "A religious leader",
+          "A political ruler"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Übermensch (Superman) is Nietzsche's concept of an ideal human who transcends conventional morality and creates their own values."
+      },
+      {
+        "question": "What did Nietzsche mean by 'God is dead'?",
+        "options": [
+          "A literal death of a deity",
+          "The decline of religious authority in modern society",
+          "Atheism is correct",
+          "Science disproved religion"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Nietzsche meant that traditional religious authority and absolute moral values were losing their power in modern society, not a literal death."
+      },
+      {
+        "question": "What is 'eternal recurrence'?",
+        "options": [
+          "Reincarnation",
+          "Living as if you'd repeat your life infinitely",
+          "Time travel",
+          "Immortality"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Eternal recurrence is a thought experiment: if you had to live your exact life over and over forever, would you change anything? It's a test of life affirmation."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche",
+    "contemporaries": [
+      "Richard Wagner",
+      "Paul Rée"
+    ],
+    "opponents": [
+      "Arthur Schopenhauer (Ideas)",
+      "Richard Wagner (Later)"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lao Tzu",
+    "birth_year": -601,
+    "death_year": -531,
+    "era": "Ancient China",
+    "school": "Taoism",
+    "bio": "Legendary Chinese philosopher and founder of Taoism. Author of the 'Tao Te Ching,' one of the most translated books in history. Little is known about his life—some scholars debate if he was a real person or a composite of several sages. His philosophy emphasizes harmony with the Tao (the Way), simplicity, and natural action.",
+    "key_ideas": [
+      "Wu Wei: Effortless action, going with the flow",
+      "The Tao: The natural order and way of the universe",
+      "Simplicity: Less is more, embrace minimalism"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What does 'Wu Wei' mean?",
+        "options": [
+          "Hard work and effort",
+          "Effortless action, going with the flow",
+          "Meditation practice",
+          "Martial arts technique"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Wu Wei means 'effortless action' or 'non-doing.' It's about acting in harmony with the natural flow rather than forcing things."
+      },
+      {
+        "question": "What is the Tao?",
+        "options": [
+          "A religious deity",
+          "The natural order and way of the universe",
+          "A meditation technique",
+          "A moral code"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Tao is the fundamental principle underlying the universe—the natural order and way that everything flows."
+      },
+      {
+        "question": "What book did Lao Tzu write?",
+        "options": [
+          "The Art of War",
+          "Tao Te Ching",
+          "I Ching",
+          "Analects"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Lao Tzu authored the 'Tao Te Ching,' one of the most translated and influential books in history."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laozi",
+    "contemporaries": [
+      "Confucius"
+    ],
+    "opponents": [
+      "Confucianism (Philosophy)"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "René Descartes",
+    "birth_year": 1596,
+    "death_year": 1650,
+    "era": "17th Century France",
+    "school": "Rationalism",
+    "bio": "French philosopher, mathematician, and scientist. Often called the 'Father of Modern Philosophy.' He revolutionized philosophy by applying mathematical reasoning to philosophical questions. His method of systematic doubt led to his famous conclusion 'I think, therefore I am.' He also made major contributions to mathematics, including the Cartesian coordinate system.",
+    "key_ideas": [
+      "Cogito Ergo Sum: I think, therefore I am",
+      "Mind-Body Dualism: Mind and body are separate substances",
+      "Method of Doubt: Question everything to find certain knowledge"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What does 'Cogito, ergo sum' mean?",
+        "options": [
+          "I doubt, therefore I learn",
+          "I think, therefore I am",
+          "I feel, therefore I exist",
+          "I believe, therefore it's true"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "'Cogito, ergo sum' means 'I think, therefore I am.' It's Descartes' foundational proof of existence through the act of thinking."
+      },
+      {
+        "question": "What is Descartes' method of doubt?",
+        "options": [
+          "Never trust anyone",
+          "Question everything to find certain knowledge",
+          "Doubt leads to depression",
+          "Only believe in science"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Descartes' method involves systematically doubting everything that can be doubted to find what is absolutely certain."
+      },
+      {
+        "question": "What is mind-body dualism?",
+        "options": [
+          "Mind and body are the same thing",
+          "Mind and body are separate substances",
+          "Only the mind exists",
+          "Only the body exists"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Descartes argued that mind (thinking substance) and body (physical substance) are fundamentally different and separate."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+    "contemporaries": [
+      "Galileo Galilei",
+      "Blaise Pascal",
+      "Pierre Gassendi"
+    ],
+    "opponents": [
+      "Scholastics",
+      "Pierre Gassendi"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jean-Paul Sartre",
+    "birth_year": 1905,
+    "death_year": 1980,
+    "era": "20th Century France",
+    "school": "Existentialism",
+    "bio": "French philosopher, playwright, and novelist. Key figure in 20th-century existentialism. He argued that 'existence precedes essence'—we exist first, then create our own meaning. Refused the Nobel Prize in Literature in 1964. Had a famous lifelong relationship with philosopher Simone de Beauvoir. His works explore freedom, responsibility, and authenticity.",
+    "key_ideas": [
+      "Existence Precedes Essence: We create our own nature through choices",
+      "Radical Freedom: We're absolutely free and responsible for our lives",
+      "Bad Faith: Self-deception to escape freedom and responsibility"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What does 'existence precedes essence' mean?",
+        "options": [
+          "We have a predetermined purpose",
+          "We exist first, then create our own meaning",
+          "Essence is more important than existence",
+          "We are born with a fixed nature"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Sartre argued that humans exist first without a predetermined purpose, then create their own essence through choices and actions."
+      },
+      {
+        "question": "What is 'bad faith' in Sartre's philosophy?",
+        "options": [
+          "Religious doubt",
+          "Self-deception to escape freedom and responsibility",
+          "Lying to others",
+          "Breaking promises"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Bad faith is self-deception where we deny our freedom and responsibility by pretending we have no choice."
+      },
+      {
+        "question": "What did Sartre refuse in 1964?",
+        "options": [
+          "A university position",
+          "The Nobel Prize in Literature",
+          "French citizenship",
+          "A political office"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Sartre refused the Nobel Prize in Literature in 1964, staying true to his principles of independence and authenticity."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+    "contemporaries": [
+      "Simone de Beauvoir",
+      "Albert Camus",
+      "Frantz Fanon"
+    ],
+    "opponents": [
+      "Albert Camus",
+      "Structuralists"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Voltaire",
+    "birth_year": 1694,
+    "death_year": 1778,
+    "era": "18th Century France",
+    "school": "Enlightenment",
+    "bio": "French Enlightenment writer, historian, and philosopher. Famous for his wit, criticism of Christianity and slavery, and advocacy for freedom of speech and religion. His satirical novella 'Candide' is a masterpiece of Western literature. Voltaire was a prolific writer who produced works in almost every literary form. He was a fierce advocate for civil liberties and social reform.",
+    "key_ideas": [
+      "Freedom of Speech: Defend the right to express unpopular opinions",
+      "Religious Tolerance: Respect all beliefs, oppose fanaticism",
+      "Reason over Superstition: Use logic and evidence, not blind faith"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is Voltaire most famous for advocating?",
+        "options": [
+          "Absolute monarchy",
+          "Freedom of speech and religious tolerance",
+          "Scientific materialism",
+          "Revolutionary violence"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Voltaire was a fierce advocate for freedom of speech, religious tolerance, and civil liberties during the Enlightenment."
+      },
+      {
+        "question": "What is Voltaire's most famous work?",
+        "options": [
+          "The Social Contract",
+          "Candide",
+          "Meditations",
+          "The Prince"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "'Candide' is Voltaire's satirical masterpiece that critiques optimism and explores human suffering with wit and humor."
+      },
+      {
+        "question": "What did Voltaire say about certainty?",
+        "options": [
+          "Certainty is the goal of philosophy",
+          "Certainty is a ridiculous condition",
+          "Only science provides certainty",
+          "Certainty comes from faith"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Voltaire said 'Doubt is an uncomfortable condition, but certainty is a ridiculous one,' emphasizing intellectual humility."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Voltaire",
+    "contemporaries": [
+      "Jean-Jacques Rousseau",
+      "Denis Diderot"
+    ],
+    "opponents": [
+      "Jean-Jacques Rousseau",
+      "Catholic Church"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Plato",
+    "birth_year": -427,
+    "death_year": -347,
+    "era": "Ancient Greece",
+    "school": "Platonism",
+    "bio": "Student of Socrates and teacher of Aristotle. Founder of the Academy in Athens, the first institution of higher learning in the Western world. His 'Allegory of the Cave' explores perception versus reality. He believed the physical world is just a shadow of a higher 'World of Forms'.",
+    "key_ideas": [
+      "Theory of Forms: Non-physical ideas are the most accurate reality",
+      "Allegory of the Cave: We see shadows, not truth",
+      "Philosopher King: Rulers should be wise, not just powerful"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is the 'Allegory of the Cave' about?",
+        "options": [
+          "Running away from problems",
+          "Living in nature",
+          "Perception vs. Reality and the journey to enlightenment",
+          "Mining for gold"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "The allegory depicts how humans see only shadows of reality (the cave) until they seek philosophical truth (the sun)."
+      },
+      {
+        "question": "Who was Plato's teacher?",
+        "options": [
+          "Aristotle",
+          "Socrates",
+          "Alexander the Great",
+          "Homer"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Plato was the most famous student of Socrates and documented his teachings in dialogues."
+      },
+      {
+        "question": "What did Plato believe about the physical world?",
+        "options": [
+          "It is the only reality",
+          "It is a shadow of the perfect World of Forms",
+          "It is evil",
+          "It is an illusion created by demons"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Plato believed physical objects are imperfect copies (shadows) of ideal, eternal Forms."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Plato",
+    "contemporaries": [
+      "Xenophon",
+      "Isocrates"
+    ],
+    "opponents": [
+      "The Sophists",
+      "Diogenes"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Aristotle",
+    "birth_year": -384,
+    "death_year": -322,
+    "era": "Ancient Greece",
+    "school": "Peripatetic School",
+    "bio": "Student of Plato and tutor to Alexander the Great. A polymath who wrote on ethics, logic, biology, and politics. Unlike Plato's focus on abstract Forms, Aristotle focused on observing the physical world. He defined virtue as the 'Golden Mean'—the balance between extremes.",
+    "key_ideas": [
+      "Golden Mean: Virtue lies between excess and deficiency",
+      "Empiricism: Knowledge comes from sensory experience",
+      "Teleology: Everything has a purpose or end goal"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is the 'Golden Mean'?",
+        "options": [
+          "Being rich",
+          "The middle point between two extremes",
+          "A mathematical formula",
+          "Average intelligence"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Golden Mean is the desirable middle ground between two extremes, representing the path of virtue."
+      },
+      {
+        "question": "Who was Aristotle's famous student?",
+        "options": [
+          "Plato",
+          "Socrates",
+          "Alexander the Great",
+          "Julius Caesar"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Aristotle tutored Alexander the Great, influencing the future conqueror with his teachings."
+      },
+      {
+        "question": "How did Aristotle differ from Plato?",
+        "options": [
+          "He focused on observation of the physical world",
+          "He didn't believe in philosophy",
+          "He was a poet",
+          "He lived in Rome"
+        ],
+        "correct_answer_index": 0,
+        "explanation": "While Plato focused on abstract Forms, Aristotle grounded his philosophy in empirical observation of nature."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Aristotle",
+    "contemporaries": [
+      "Demosthenes",
+      "Diogenes"
+    ],
+    "opponents": [
+      "Platonists (on some issues)"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Confucius",
+    "birth_year": -551,
+    "death_year": -479,
+    "era": "Ancient China",
+    "school": "Confucianism",
+    "bio": "Chinese teacher and philosopher whose principles have deeply influenced East Asian thought. He focused on personal morality, correctness of social relationships, justice, and sincerity. He believed that a harmonious society is built on strong family values and respect for elders.",
+    "key_ideas": [
+      "Filial Piety: Respect for parents and ancestors",
+      "Ren: Humaneness and benevolence",
+      "The Golden Rule: Do not do to others what you do not want done to yourself"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is the core of Confucian ethics?",
+        "options": [
+          "Individual freedom",
+          "Social harmony and relationships",
+          "Conquering nature",
+          "Asceticism"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Confucianism emphasizes moral order, social harmony, and fulfilling one's role in relationships."
+      },
+      {
+        "question": "What is 'Filial Piety'?",
+        "options": [
+          "Loyalty to the emperor",
+          "Respect for parents and ancestors",
+          "Love for nature",
+          "Honesty in business"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Filial piety (Xiao) is the virtue of respect for one's parents, elders, and ancestors."
+      },
+      {
+        "question": "Did Confucius write the 'Analects'?",
+        "options": [
+          "Yes, personally",
+          "No, it was compiled by his disciples",
+          "No, it's a myth",
+          "Yes, on stone tablets"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "The Analects is a collection of sayings and ideas attributed to Confucius, compiled by his followers after his death."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Confucius",
+    "contemporaries": [
+      "Lao Tzu (Allegedly)"
+    ],
+    "opponents": [
+      "Legalists",
+      "Mohists"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Albert Camus",
+    "birth_year": 1913,
+    "death_year": 1960,
+    "era": "20th Century France",
+    "school": "Absurdism",
+    "bio": "French philosopher, author, and journalist. Won the Nobel Prize in Literature. He explored the 'Absurd'—the conflict between our desire for meaning and the silent, meaningless universe. Unlike nihilists, he argued we shouldn't despair but revolt and live fully despite the absurdity. 'One must imagine Sisyphus happy.'",
+    "key_ideas": [
+      "The Absurd: The tension between seeking meaning and finding none",
+      "Revolt: Living defiantly without hope for eternal meaning",
+      "Freedom: Creating your own path in a godless world"
+    ],
+    "image_url": "",
+    "quiz_questions": [
+      {
+        "question": "What is 'The Absurd'?",
+        "options": [
+          "A type of comedy",
+          "The conflict between seeking meaning and a meaningless world",
+          "Logical contradictions",
+          "Religious faith"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Camus defined the Absurd as the confrontation between human longing for clarity and the 'unreasonable silence of the world.'"
+      },
+      {
+        "question": "Who is Sisyphus?",
+        "options": [
+          "A Greek god",
+          "A king condemned to roll a boulder uphill forever",
+          "Camus's brother",
+          "A Roman soldier"
+        ],
+        "correct_answer_index": 1,
+        "explanation": "Sisyphus is a mythological figure condemned to roll a rock uphill only for it to roll down. Camus used him as a symbol of human existence."
+      },
+      {
+        "question": "How should we respond to the Absurd?",
+        "options": [
+          "Suicide",
+          "Religious leap of faith",
+          "Revolt and live fully",
+          "Ignore it"
+        ],
+        "correct_answer_index": 2,
+        "explanation": "Camus argued for revolt: acknowledging the absurdity but choosing to live with passion and integrity anyway."
+      }
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Camus",
+    "contemporaries": [
+      "Jean-Paul Sartre",
+      "Simone de Beauvoir"
+    ],
+    "opponents": [
+      "Jean-Paul Sartre (Political views)"
+    ]
+  }
+]
